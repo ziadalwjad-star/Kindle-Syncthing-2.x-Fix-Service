@@ -1,4 +1,4 @@
-# Kindle Syncthing 2.x Fix Service
+# Kindle Syncthing 2.x Fix Service — Reliable, Always-On Syncthing Synchronisation
 
 A Kindle-focused service wrapper that turns the File Managers Syncthing installation into a reliable background synchronisation service with an optional temporary web-management mode.
 
